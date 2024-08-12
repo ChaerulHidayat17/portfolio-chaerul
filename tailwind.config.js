@@ -15,6 +15,10 @@ module.exports = {
       screens: {
         '2xl': '1320px'
       },
+      fontFamily: {
+        Inter: ['Inter', 'sans-serif'],
+      },
+      
     },
   },
   plugins: [],
